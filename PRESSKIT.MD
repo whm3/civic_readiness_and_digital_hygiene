@@ -8,7 +8,7 @@
 
 ## Executive Summary (TL;DR)
 
-**Citizen Digital Hygiene & Civic Readiness** is a public-facing educational project that uses **music, infographics, and plain-language lessons** to teach lawful, calm, and sustainable civic participation in a modern surveillance and media environment.
+**Civic Readiness & Digital Hygiene** is a public-facing educational project that uses **music, infographics, and plain-language lessons** to teach lawful, calm, and sustainable civic participation in a modern surveillance and media environment.
 
 The project emphasizes:
 
@@ -216,3 +216,4 @@ Participation is **voluntary**. No affiliation required.
 - **Curriculum Repository:** GitHub (public)
 
 - **Press Assets:** lyrics, lesson plans, infographics available on request
+
