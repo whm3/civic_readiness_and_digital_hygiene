@@ -10,7 +10,7 @@
 
 Veteran of the security industry and former U.S. Army soldier — before a catastrophic, non-service-related injury hit the brakes.
 
-These days, `ThirtySevenFox` splits time between a major tech company and private crisis management consulting for individuals, orgs, and governments that find themselves in the deep end.
+These days, `ThirtySevenFox` splits time between a major tech company and private crisis management consulting for individuals, orgs, and governments that find themselves in the deep end. Routinely traveling to hot spots internationally to clear their sinuses with tear gas.
 
 A long-time believer in **"train the trainer"** models, most work focuses on equipping others to stay upright when the system tilts sideways.
 
