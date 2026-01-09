@@ -1,7 +1,11 @@
-After the Sirens
-  -ThirtySevenFox
+# After the Sirens
 
-Verse 1
+**Artist:** ThirtySevenFox
+
+---
+
+### Verse 1
+
 Sirens fade like soda fizz
 Stickers peeling off the wrists
 Street goes quiet, shoes go home
@@ -12,22 +16,27 @@ Who took notes, who took a lens
 Adrenaline in yesterday
 Paperwork is on the way
 
-Pre-Chorus
+### Pre-Chorus
+
 It doesn't end when the crowd goes dark
 It just changes shape, it changes part
 
-Chorus
-After the sirens, after the cheer
+### Chorus
+
+*After the sirens, after the cheer
 After the chants disappear
 The long game starts, slow and plain
-Nothing loud, everything remains
+Nothing loud, everything remains*
 
-After the posters hit the floor
+*After the posters hit the floor
 After the high wears off for sure
 Court dates don't come with a drum
-This is where the work gets done
+This is where the work gets done*
 
-Verse 2
+---
+
+### Verse 2
+
 Cameras are on every side
 Metal eyes that never blink
 Faces tagged, a passing glance
@@ -39,29 +48,37 @@ Cellphones tagged and Wifi logged
 Smile for nothing, say no names
 Data loves a crowded frame
 
-Pre-Chorus
+### Pre-Chorus
+
 Attention isn't always praise
 Sometimes it follows you for days
 
-Chorus
-After the sirens, after the cheer
+### Chorus
+
+*After the sirens, after the cheer
 After the chants disappear
 The long game starts, slow and plain
-Nothing loud, everything remains
+Nothing loud, everything remains*
 
-After the lights, after the wave
+*After the lights, after the wave
 After who stayed and who got brave
 No applause, no drum
-This is where the work gets done
+This is where the work gets done*
 
-Bridge (spoken / half-sung)
+---
+
+### Bridge *(spoken / half-sung)*
+
 Save the files.
 Write it clean.
 Names, dates, what you've seen.
 Sleep it off, don't hit "send."
 Tomorrow's where it really ends.
 
-Verse 3
+---
+
+### Verse 3
+
 Unknown numbers after dark
 Letters heavy, vaguely marked
 "Just a chat," "routine check"
@@ -73,22 +90,27 @@ Nothing loud, no scene to see
 Just weight applied invisibly
 Trying to intimidate me
 
-Pre-Chorus
+### Pre-Chorus
+
 You don't argue in the street
 You keep it neat, you keep receipts
 
-Chorus
-After the sirens, after the cheer
+### Chorus
+
+*After the sirens, after the cheer
 After the chants disappear
 The long game starts, slow and plain
-Nothing loud, everything remains
+Nothing loud, everything remains*
 
-After the street, after the sun
+*After the street, after the sun
 After everyone says "we're done"
 No confetti, no drum
-This is where the work gets done
+This is where the work gets done*
 
-Verse 4
+---
+
+### Verse 4
+
 Cold pizza, cold hard facts
 Screenshots don't always stack
 Names misspelled, times unclear
@@ -99,25 +121,34 @@ Nobody pays the fines
 Street is fast, the system's slow
 That's just how these stories go
 
-Bridge 2 (quiet, playful)
+---
+
+### Bridge 2 *(quiet, playful)*
+
 Vinyl crackle, coffee stain
 Boring notes beat fleeting fame
 Quiet beats a flash like this
 Patience is a kind of fist
 
-Final Chorus
-After the sirens, after the cheer
+---
+
+### Final Chorus
+
+*After the sirens, after the cheer
 After the chants disappear
 The long game starts, slow and plain
-Nothing loud, everything remains
+Nothing loud, everything remains*
 
-After the noise, after the run
+*After the noise, after the run
 After attention picks someone
 No spotlight, no drum
-This is where the work gets done
+This is where the work gets done*
 
-Outro
+---
+
+### Outro
+
 Street goes quiet.
 Records stay.
-What you do tomorrow
-Counts as much as  today.
+**What you do tomorrow
+Counts as much as today.**

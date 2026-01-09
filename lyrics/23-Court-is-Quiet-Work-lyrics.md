@@ -1,4 +1,10 @@
-Verse 1
+# Court is Quiet Work
+
+**Artist:** ThirtySevenFox
+
+---
+
+### Verse 1
 
 Morning light on a paper date
 Written small but it carries weight
@@ -8,31 +14,33 @@ Nothing sudden nothing grand
 Same steps back to the same place
 Same room same neutral face
 Time moves slow on a wooden bench
-No one’s counting what this costs
+No one's counting what this costs
 
-Pre-Chorus
+### Pre-Chorus
 
-This won’t trend
-This won’t show
+This won't trend
+This won't show
 Still you go
 
-Chorus
+### Chorus
 
-Court is quiet work
+*Court is quiet work
 You show up again
-You don’t rush
-You don’t bend
+You don't rush
+You don't bend*
 
-Court is quiet work
+*Court is quiet work
 You wait your turn
-You bring what’s needed
-You don’t burn
+You bring what's needed
+You don't burn*
 
-No cheers
+*No cheers
 No sound
-Just staying round
+Just staying round*
 
-Verse 2
+---
+
+### Verse 2
 
 Calendar flipped one more page
 Another line another stage
@@ -44,38 +52,42 @@ Someone tracks the next date
 Nothing heroic on the page
 Just keeping things from fraying
 
-Pre-Chorus
+### Pre-Chorus
 
 This takes time
-That’s the point
+That's the point
 
-Chorus
+### Chorus
 
-Court is quiet work
+*Court is quiet work
 You come back through
 Same door
-Same view
+Same view*
 
-Court is quiet work
+*Court is quiet work
 You hold the thread
-You don’t drop it
-Halfway in
+You don't drop it
+Halfway in*
 
-No rush
+*No rush
 No claim
-Just showing the same
+Just showing the same*
 
-Bridge (instrumental drop, minimal)
+---
+
+### Bridge *(instrumental drop, minimal)*
 
 Patience is a skill
 So is memory
 So is not letting go
 When it gets heavy
 
-Verse 3
+---
+
+### Verse 3
 
 Months pass slower than they should
-But slower doesn’t mean no good
+But slower doesn't mean no good
 What stays steady starts to count
 Even when it wears you down
 
@@ -84,26 +96,26 @@ You move with it day by day
 No shortcuts no clean release
 Just staying close just staying seen
 
-Final Chorus
+---
 
-Court is quiet work
+### Final Chorus
+
+*Court is quiet work
 You stand by
-You stay near
+You stay near*
 
-Court is quiet work
+*Court is quiet work
 You keep the line
-Clear
+Clear*
 
-No finish
+*No finish
 No sign
 Just being there
-On time
-
-Outro
-
-What lasts
-Is what you keep doing
-
+On time*
 
 ---
 
+### Outro
+
+**What lasts
+Is what you keep doing.**

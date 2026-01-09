@@ -1,132 +1,139 @@
-CARRY THE SIGNAL
-  ThirtySevenFox
+# Carry the Signal
 
+**Artist:** ThirtySevenFox
 
-[Intro (spoken / half-sung)
+---
 
+### Intro *(spoken / half-sung)*
 
 Yeah…
 Know the ground before you run.
 
-Verse 1 – Know the Ground
+---
+
+### Verse 1 — Know the Ground
 
 Before you scream into the night
 You read the room, you read the light
-Who’s out there watchin’, who believes
-What keeps ‘em strong, what makes ‘em bleed
-You don’t just fire, you don’t just shout
+Who's out there watchin', who believes
+What keeps 'em strong, what makes 'em bleed
+You don't just fire, you don't just shout
 You dial it in, you sort it out
 
-(Drums lock in, guitar chugs tighten)
+### Pre-Chorus
 
-Pre-Chorus
-
-You don’t waste a word in the dark
+You don't waste a word in the dark
 You strike the nerve, you hit the mark
 
-Chorus (Gang Vocals)
+### Chorus *(Gang Vocals)*
 
-Carry the signal — steady and true
-One clear message — cuttin’ right through
+*Carry the signal — steady and true
+One clear message — cuttin' right through
 Not every ear, not every mind
 Right words, right place, right time
 Carry the signal — loud but clean
-Say it once… then say it again
+Say it once… then say it again*
 
-Verse 2 – One Purpose, One Aim
+---
+
+### Verse 2 — One Purpose, One Aim
 
 A thousand slogans hit the floor
-If they don’t know what they’re fightin’ for
+If they don't know what they're fightin' for
 Every line, every flame
 Points straight dead-center at the aim
-If it don’t push the plan ahead
+If it don't push the plan ahead
 Leave it unsaid, leave it dead
 
-Pre-Chorus
+### Pre-Chorus
 
 No distractions, no disguise
 One hard truth in a thousand eyes
 
-Chorus
+### Chorus
 
-Carry the signal — don’t confuse
+*Carry the signal — don't confuse
 Cut the clutter, sharpen the truth
-If you drift, you’ll lose control
+If you drift, you'll lose control
 Discipline keeps it rock-and-roll
 Carry the signal — night to day
-Same damn meaning, new damn way
+Same damn meaning, new damn way*
 
-Verse 3 – Credibility Is Currency
+---
 
-You don’t buy trust, you build it slow
+### Verse 3 — Credibility Is Currency
+
+You don't buy trust, you build it slow
 Brick by brick, you let it show
-Once it cracks, it don’t repair
+Once it cracks, it don't repair
 No cheap spin gets you outta there
 Truth runs farther than the lie
-And it don’t fade when the years roll by
+And it don't fade when the years roll by
 
-Pre-Chorus
+### Pre-Chorus
 
 If they doubt you, count it done
-You lost the war before it’s won
+You lost the war before it's won
 
-Chorus
+### Chorus
 
-Carry the signal — honest and raw
+*Carry the signal — honest and raw
 No false promise, no hidden claw
-If they smell fear, you’re already through
+If they smell fear, you're already through
 The message dies before it moves
 Carry the signal — stand and be seen
-Built to take the heat, built to be clean
+Built to take the heat, built to be clean*
 
-Verse 4 – Repetition Without Noise
+---
 
-You don’t repeat to dull the sound
+### Verse 4 — Repetition Without Noise
+
+You don't repeat to dull the sound
 You repeat to drive it down
 Same old fire, new disguise
 Burns the same behind the eyes
-Consistency — that’s how it stays
+Consistency — that's how it stays
 Chaos fades, the signal stays
 
-Chorus
+### Chorus
 
-Carry the signal — again and again
+*Carry the signal — again and again
 Different streets, different men
 Not louder — just crystal clear
 Till the meaning lands and sticks right here
-Carry the signal — don’t overload
-Less said strong carries the load
+Carry the signal — don't overload
+Less said strong carries the load*
 
-Bridge – Ethics & Restraint (Breakdown, half-time stomp)
+---
+
+### Bridge — Ethics & Restraint *(Breakdown, half-time stomp)*
 
 Power without a line will rot
-Everything you think you’ve got
+Everything you think you've got
 When you forget the human cost
 You win the fight but lose it all
 
+---
 
+### Final Chorus *(Key Change, Full Arena)*
 
-Final Chorus (Key Change, Full Arena)
-
-Carry the signal — plan it tight
+*Carry the signal — plan it tight
 Audience first, target in sight
 Credibility, clarity, review
-Cut what’s false, keep what’s true
+Cut what's false, keep what's true
 Carry the signal — end to end
-From first intent… to final amend
+From first intent… to final amend*
 
-Outro (Chanted, boots on gravel)
+---
 
-It ain’t the volume
-It ain’t the spin
-It’s knowin’ the why
-And knowin’ who’s in
+### Outro *(Chanted, boots on gravel)*
 
-(Crunch—crunch—crunch—crunch)
-Know the people.
-Know the plan.
-Carry the signal.
-Stand your ground.
+It ain't the volume
+It ain't the spin
+It's knowin' the why
+And knowin' who's in
 
-
-
+> Know the people.
+> Know the plan.
+> Carry the signal.
+> **Stand your ground.**

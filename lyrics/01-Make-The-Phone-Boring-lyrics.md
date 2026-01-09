@@ -1,7 +1,10 @@
-Make the Phone Boring
-  -ThirtySevenFox
+# Make the Phone Boring
 
-Verse 1 — Framing
+**Artist:** ThirtySevenFox
+
+---
+
+### Verse 1 — Framing
 
 Phones are smart
 But not your spine
@@ -9,8 +12,8 @@ Not the place
 For every line
 
 If it thinks
-So you don’t have to
-That’s when it
+So you don't have to
+That's when it
 Starts choosing for you
 
 Before the door
@@ -18,36 +21,38 @@ Before the sound
 Decide what comes
 Along around
 
-Pre-Chorus
+### Pre-Chorus
 
 If it does more
 Than it needs to do
-That’s one more thing
+That's one more thing
 Controlling you
 
-Chorus — Core Rule
+### Chorus — Core Rule
 
-Make the phone boring
+*Make the phone boring
 Make it plain
 No little glow
-Calling your name
+Calling your name*
 
-If it doesn’t help
+*If it doesn't help
 Leave it behind
 Quiet is a kind
-Of mind
+Of mind*
 
-Make the phone boring
+*Make the phone boring
 Lock it down
 Nothing to see
-Nothing around
+Nothing around*
 
-You’re not hiding
-You’re just clean
-You don’t owe
-Every screen
+*You're not hiding
+You're just clean
+You don't owe
+Every screen*
 
-Verse 2 — Device Separation
+---
+
+### Verse 2 — Device Separation
 
 One phone carries
 Your whole life
@@ -56,7 +61,7 @@ Every night
 
 That one stays home
 That one stays known
-It doesn’t need
+It doesn't need
 To walk this road
 
 Another phone
@@ -66,51 +71,55 @@ No life to touch
 
 It knows today
 And not before
-That’s all it’s for
-That’s all it’s for
+That's all it's for
+That's all it's for
 
-Pre-Chorus 2
+### Pre-Chorus 2
 
 When lives mix
 Risk spreads wide
 Clean lines
 Keep sides inside
 
-Chorus — Reinforced
+### Chorus — Reinforced
 
-Make the phone boring
+*Make the phone boring
 Make it small
 One job only
-Nothing more
+Nothing more*
 
-What you live
+*What you live
 Stays where you are
 What you bring
-Doesn’t know your heart
+Doesn't know your heart*
 
-Verse 3 — Sync & Exhaust
+---
+
+### Verse 3 — Sync & Exhaust
 
 Every tap
 Goes somewhere else
 Copies made
 You never felt
 
-Clouds don’t ask
-If now’s the time
+Clouds don't ask
+If now's the time
 They just keep
 Every line
 
 Even still
 It talks away
 Logging things
-You didn’t say
+You didn't say
 
 The less it knows
 The less it sends
 Silence travels
 Farther then
 
-Verse 4 — Input Risk
+---
+
+### Verse 4 — Input Risk
 
 Even trusted apps
 Sit on keys
@@ -127,7 +136,9 @@ Say it slow
 Or ask if
 It needs to go
 
-Verse 5 — Cables & Power
+---
+
+### Verse 5 — Cables & Power
 
 Outlet hums
 By the wall
@@ -137,31 +148,35 @@ Like a call
 Waiting rooms
 Airport rows
 Power that
-You don’t quite know
+You don't quite know
 
-If you didn’t
+If you didn't
 Bring the wire
-Don’t accept
+Don't accept
 The borrowed fire
 
 Some things charge
 More than a phone
-Some things shouldn’t
+Some things shouldn't
 Touch your own
 
-Bridge — Silence & Refusal
+---
+
+### Bridge — Silence & Refusal
 
 Power talks
-Even when you don’t
+Even when you don't
 Silence means
 You said no
 
 Later works
 Just as well
 Nothing breaks
-If you don’t plug in
+If you don't plug in
 
-Verse 6 — Biometrics
+---
+
+### Verse 6 — Biometrics
 
 Fingers answer
 Faster than thought
@@ -169,21 +184,23 @@ Faces open
 What words would not
 
 Speed feels easy
-Till it’s not
+Till it's not
 Memory waits
-Muscle won’t
+Muscle won't
 
 If it opens
 Just by being you
-That’s one thing
-You didn’t choose
+That's one thing
+You didn't choose
 
 Let it ask
 Let it wait
 Slow is still
 A kind of gate
 
-Verse 7 — Memory
+---
+
+### Verse 7 — Memory
 
 Phones are smart
 But not your ground
@@ -200,56 +217,61 @@ Write them once
 Legal help
 Knows how to find you
 
-Memory’s the backup
+Memory's the backup
 You control
 When the screen
-Won’t play its role
+Won't play its role
 
-Verse 8 — Aftercare
+---
 
-When you’re home
+### Verse 8 — Aftercare
+
+When you're home
 And lights are low
-There’s still some care
+There's still some care
 You need to show
 
 Change the locks
-You can’t see
+You can't see
 Close the doors
 Quietly
 
 Nothing rushed
 Nothing loud
 Just clean it up
-When you’re allowed
+When you're allowed
 
-Final Chorus — Lock-In
+---
 
-Make the phone boring
+### Final Chorus — Lock-In
+
+*Make the phone boring
 Before you go
 The less it does
-The more you know
+The more you know*
 
-If it mattered
+*If it mattered
 You would know
-If it didn’t
-Let it go
+If it didn't
+Let it go*
 
-Make the phone boring
+*Make the phone boring
 Black and still
 Nothing arguing
-With your will
+With your will*
 
-You’re not hiding
-You’re not wrong
-You’re just keeping
-Lines strong
+*You're not hiding
+You're not wrong
+You're just keeping
+Lines strong*
 
-Outro — Mantra
+---
+
+### Outro — Mantra
 
 Before the street
 Before the sound
 Make the quiet
 Stick around
 
-Make it boring.
-
+**Make it boring.**
