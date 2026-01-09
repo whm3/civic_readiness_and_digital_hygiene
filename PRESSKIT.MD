@@ -1,6 +1,6 @@
 # PRESS KIT
 
-## Citizen Digital Hygiene & Civic Readiness
+## Civic Readiness & Digital Hygiene 
 
 *A public education project by ThirtySevenFox*
 
@@ -214,4 +214,5 @@ Participation is **voluntary**. No affiliation required.
 
 - **Artist / Project:** ThirtySevenFox
 - **Curriculum Repository:** GitHub (public)
+
 - **Press Assets:** lyrics, lesson plans, infographics available on request
