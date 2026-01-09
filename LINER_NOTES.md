@@ -29,7 +29,7 @@ Anytime something well-produced hits their feed.
 
 > 🎯 In this case? It’s both.
 
-Built using U.S. Army influence doctrine (`FM 3-33.1`) and powered by multiple AI tools:
+Built using U.S. Army influence doctrine (`FM 33.1-1`) and powered by multiple AI tools:
 - `OpenAI`
 - `Perplexity`
 - `Anthropic`
