@@ -1,4 +1,4 @@
-# Citizen Digital Hygiene & Civic Readiness
+# Civic Readiness &  Digital Hygiene
 
 ## Album Syllabus / Curriculum Aid
 
