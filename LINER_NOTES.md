@@ -8,7 +8,7 @@
 
 ## 👤 About the Creator
 
-Veteran of the security industry and former U.S. Army soldier — before a catastrophic, non-service-related injury hit the brakes.
+Veteran of the security industry and former U.S. Army soldier — before a non-service-related injury hit the brakes.
 
 These days, `ThirtySevenFox` splits time between a major tech company and private crisis management consulting for individuals, orgs, and governments that find themselves in the deep end. Routinely traveling to hot spots internationally to clear their sinuses with tear gas.
 
