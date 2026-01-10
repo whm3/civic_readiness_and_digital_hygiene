@@ -26,7 +26,7 @@ Mission accomplished.
 
 ### 🎶 From Trolling to Teaching
 
-From there it spiraled. Trolling turned into songwriting. Songs emerged from grocery lists. Recipes became ballads. Even the weather got its own verse.
+From there it spiraled. Trolling turned into songwriting. Songs emerged from grocery lists. Recipes became ballads. The dogs and chickens got their own verses.
 
 And then came the realization:
 
@@ -74,3 +74,4 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
