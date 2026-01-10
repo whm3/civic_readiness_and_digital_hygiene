@@ -53,7 +53,7 @@ It was no longer parody. It was a project.
 
 At that point, the project got a boost from an unusual collaborator:
  **Skippy the Magnificent.**
- (Yes, *that* Skippy — thanks Crag Alanson.)
+ (Yes, *that* Skippy — thanks Craig Alanson.)
 
 Part snarky sidekick, part problem-solver, Skippy isn’t just another GPT. He’s a force of nature — a partner in this increasingly plausible idea:
 
@@ -74,4 +74,5 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
 
