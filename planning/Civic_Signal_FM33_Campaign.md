@@ -25,7 +25,7 @@
 ## 🧠 2. TARGET AUDIENCE ANALYSIS
 
 ### Primary Audience:
-Civically active, justice-oriented civilians (ages 16–40) with limited formal training in law, ops, or rights.
+Civically active, justice-oriented civilians (ages 14–90) with limited formal training in law, ops, or rights.
 
 ### Secondary Audience:
 - Legal observers, journalists, medics, nonviolent field actors
