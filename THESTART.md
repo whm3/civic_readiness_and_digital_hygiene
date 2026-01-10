@@ -2,7 +2,7 @@
 
 Like most dangerous ideas, it began as a joke.
 
-It started on Discord — a group of friends seeing who could make the **worst possible music** using AI tools like Suno. Absolute chaos. But somewhere between the bad lyrics, awkward timing, and overproduced harmonies, something clicked.
+It started on Discord — a group of friends battling who could make the **worst possible music** using AI tools like Suno. Absolute chaos. But somewhere between the bad lyrics, awkward timing, and overproduced harmonies, something clicked.
 
 The experiment accidentally hit a vein of potential:
 
@@ -74,5 +74,6 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
 
 
