@@ -1,4 +1,4 @@
-# OPERATION DIGITAL EARWORM
+# OPERATION CIVIC EARWORM
 ## Album Syllabus / Curriculum Aid
 
 ---
