@@ -77,6 +77,8 @@ Thanks to the toolmakers who unknowingly enabled a full-spectrum civic education
 - Speaking Engagements
 - Crisis Consulting
 - Collaboration
+- Training (how can *we* do this?)
+- Media / Campaign creation and ops
 
 Let’s talk.
 mail: civics@mctsecurity.com
