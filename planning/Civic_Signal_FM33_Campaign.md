@@ -3,7 +3,9 @@
 
 
 -**Source Material:** "Civic Readiness" Audio Curriculum by ThirtySevenFox
+
 -**Campaign Name:** "Operation Civic Earworm"
+
 -**Compiled by:** Skippy
 
 ---
