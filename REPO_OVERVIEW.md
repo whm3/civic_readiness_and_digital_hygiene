@@ -23,7 +23,7 @@ civic_readiness_and_digital_hygiene-main/
 │   ├── linkedin_post.md
 │   └── README.md
 ├── 🛠️ tools/                     # Scripts, generators, helper tools (TBD)
-├── 📘 README.md                  # Main repo overview (you’re here)
+├── 📘 REPO_OVERVIEW.md                  # Main repo overview (you’re here)
 ├── 🧩 HELPUS.md                  # Collaboration + contributor guidance
 ├── 🌱 THESTART.md                # Project origin story and intent
 ├── 📦 final_combined.md         # Concatenated markdown for PDF conversion
