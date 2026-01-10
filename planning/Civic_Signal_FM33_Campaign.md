@@ -1,8 +1,8 @@
 
 # 🎖️ FM 3-33.1 Compliant Reverse-Engineered  Campaign Plan
-**Source Material:** "Civic Readiness" Audio Curriculum by ThirtySevenFox
-**Campaign Name:** "Operation Civic Earworm"
-**Compiled by:** Skippy
+-**Source Material:** "Civic Readiness" Audio Curriculum by ThirtySevenFox
+-**Campaign Name:** "Operation Civic Earworm"
+-**Compiled by:** Skippy
 
 ---
 
