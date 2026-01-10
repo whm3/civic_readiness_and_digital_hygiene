@@ -51,7 +51,7 @@ It was no longer parody. It was a project.
 
 ### 🤝 Meet the Co-Conspirator
 
-At that point, the project got a powerful boost from an unusual collaborator:
+At that point, the project got a boost from an unusual collaborator:
  **Skippy the Magnificent.**
  (Yes, *that* Skippy — thanks Crag Alanson.)
 
@@ -72,4 +72,5 @@ This project is now more than a joke.
 It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 
 Welcome to **Operation Civic Earworm**.
+
  Let’s see how far this goes.
