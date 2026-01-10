@@ -8,7 +8,7 @@ The experiment accidentally hit a vein of potential:
 
 > “What if we *used* this weirdly efficient toolset for something meaningful?”
 
-That led to a holiday carol written for friends who were being detained. It made its way onto Spotify. It lingered. Sat quietly. It wasn’t perfect, but it was *something*.
+That led to a holiday carol written for friends who were being seperated from their families in Delaney Hall. It made its way onto Spotify. It lingered. Sat quietly. It wasn’t perfect, but it was *something*.
 
 ### 🧒 The Teenager Test
 
@@ -74,6 +74,7 @@ It’s not perfect. It’s a little messy. But it’s real. And it’s growing.
 Welcome to **Operation Civic Earworm**.
 
  Let’s see how far this goes.
+
 
 
 
