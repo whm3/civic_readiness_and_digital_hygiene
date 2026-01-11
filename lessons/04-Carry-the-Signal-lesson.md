@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 3 — Messaging, Credibility & Continuity |
 | **Track Type** | Core doctrine (message discipline, credibility, repetition) |
-| **Duration** | One listen (repeatable) |
+| **Duration** | 03:49 One listen (repeatable) |
 | **Audience** | General public, communicators, organizers, support roles |
 
 ## Lesson Purpose
