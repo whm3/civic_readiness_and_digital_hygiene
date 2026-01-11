@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 1 — Before You Go (Pre-Event Discipline) |
 | **Track Type** | Core doctrine (digital hygiene, autonomy, restraint) |
-| **Duration** | 03:49 One listen (repeatable) |
+| **Duration** | 04:17 One listen (repeatable) |
 | **Audience** | General public, first-time participants, support roles |
 
 ## Lesson Purpose
