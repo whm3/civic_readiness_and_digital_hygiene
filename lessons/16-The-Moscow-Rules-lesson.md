@@ -4,7 +4,7 @@
 |---|---|
 | **Module** | 4 — Awareness, Assumption & Exit Discipline |
 | **Track Type** | Core doctrine (assumption-based awareness, pattern discipline, disengagement) |
-| **Duration** | One listen (repeatable) |
+| **Duration** | 02:31 One listen (repeatable) |
 | **Audience** | Participants, observers, planners, support roles, general public |
 
 ## Lesson Purpose
