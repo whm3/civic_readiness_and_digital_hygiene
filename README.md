@@ -8,6 +8,9 @@
 This curriculum teaches **calm, lawful, sustainable civic participation** in a digitally saturated environment. It prioritizes **restraint, safety, continuity, and memory** over urgency or spectacle.
 
 This is **not** an instruction set for confrontation. It is a framework for **showing up clean, staying human, and going home intact**.
+---
+
+[![📢 Operation Civic Earworm on Spotify](https://img.shields.io/badge/📢%20Operation%20Civic%20Earworm%20on%20Spotify-Click%20to%20Listen-green)](https://open.spotify.com/playlist/1HYWdbzP1IMzHnliS6oaUS?si=9b2006808f744170)
 
 ---
 
