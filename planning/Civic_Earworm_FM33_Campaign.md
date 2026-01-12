@@ -54,10 +54,10 @@ Each track = tactical PSYOP series product. Reinforced by:
 
 | Platform    | Method                                | Frequency | Goal                             |
 |-------------|----------------------------------------|-----------|----------------------------------|
-| Instagram   | Visual Tiles + lyric quotes           | Weekly    | Passive indoctrination          |
+| Instagram   | Visual Tiles + lyric quotes           | TBD    | Passive indoctrination          |
 | Spotify     | Album as “playlist”                   | Ongoing   | Subconscious repetition         |
-| Zines/Print | MD-based lesson plans                 | Monthly   | Facilitator-led cell distribution |
-| Workshops   | Civic readiness listening parties     | Quarterly | Soft entry doctrinal exposure   |
+| Zines/Print | MD-based lesson plans                 | TBD   | Facilitator-led cell distribution |
+| Workshops   | Civic readiness listening parties     | TBD | Soft entry doctrinal exposure   |
 | QR Stickers | Linked to key tracks                  | Situational | On-demand deployment         |
 
 ---
