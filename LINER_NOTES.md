@@ -25,7 +25,9 @@ A long-time believer in **"train the trainer"** models, most work focuses on equ
 Social media loves to shout:  
 **“It’s a PSYOP!”**  
 **“It’s AI!”**  
-Anytime something well-produced hits their feed.
+**"It's AI Slop!"**
+
+Anytime something well-produced or unknown hits their feed.
 
 > 🎯 In this case? It’s both.
 
