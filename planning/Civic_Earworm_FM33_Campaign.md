@@ -1,5 +1,5 @@
 
-# 🎖️ FM 3-33.1 Compliant Reverse-Engineered  Campaign Plan
+# 🎖️ FM 33-1-1 Compliant Reverse-Engineered  Campaign Plan
 
 
 - **Source Material:** "Operation Civic Earworm" Audio Curriculum by ThirtySevenFox
